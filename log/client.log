@@ -1,0 +1,693 @@
+[ 17:37:11,177 ] Asset loading complete
+[ 17:37:13,640 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:37:15,760 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:10:02,309 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:10:03,777 ] Asset loading complete
+[ 19:10:04,112 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:10:13,084 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:10:13,986 ] BattlEye: "Initialized (v1.243)"
+[ 19:10:13,986 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 19:10:13,986 ] BattlEye: "Restarting client is necessary, update required"
+[ 19:10:31,993 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:10:32,653 ] Connection to gameserver  QUrl("")  requested (Charakter "ADM PH" )
+[ 19:10:32,653 ] Socket state changed  QAbstractSocket::HostLookupState
+[ 19:10:32,656 ] Socket state changed  QAbstractSocket::UnconnectedState
+[ 19:10:33,648 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:10:33,658 ] News query failed: "Account name or password is not correct."
+[ 19:10:33,770 ] Connection to gameserver  QUrl("")  requested (Charakter "ADM PH" )
+[ 19:10:33,770 ] Socket state changed  QAbstractSocket::HostLookupState
+[ 19:10:33,781 ] Socket state changed  QAbstractSocket::UnconnectedState
+[ 19:10:34,768 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:10:34,775 ] News query failed: "Account name or password is not correct."
+[ 19:10:34,896 ] Connection to gameserver  QUrl("")  requested (Charakter "ADM PH" )
+[ 19:10:34,896 ] Socket state changed  QAbstractSocket::HostLookupState
+[ 19:10:34,898 ] Socket state changed  QAbstractSocket::UnconnectedState
+[ 19:10:35,818 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:10:35,891 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:10:35,897 ] News query failed: "Account name or password is not correct."
+[ 19:10:36,060 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:10:58,559 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:10:58,847 ] Asset loading complete
+[ 19:10:59,107 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:11:03,529 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:11:04,712 ] BattlEye: "Initialized (v1.243)"
+[ 19:11:04,713 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 19:11:04,713 ] BattlEye: "Restarting client is necessary, update required"
+[ 19:11:09,487 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:11:14,465 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:11:15,289 ] Connection to gameserver  QUrl("")  requested (Charakter "ADM PH" )
+[ 19:11:15,290 ] Socket state changed  QAbstractSocket::HostLookupState
+[ 19:11:15,292 ] Socket state changed  QAbstractSocket::UnconnectedState
+[ 19:11:16,284 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:11:16,419 ] Connection to gameserver  QUrl("")  requested (Charakter "ADM PH" )
+[ 19:11:16,419 ] Socket state changed  QAbstractSocket::HostLookupState
+[ 19:11:16,421 ] Socket state changed  QAbstractSocket::UnconnectedState
+[ 19:11:16,537 ] News query failed: "Account name or password is not correct."
+[ 19:11:17,414 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:11:17,558 ] Connection to gameserver  QUrl("")  requested (Charakter "ADM PH" )
+[ 19:11:17,558 ] Socket state changed  QAbstractSocket::HostLookupState
+[ 19:11:17,560 ] Socket state changed  QAbstractSocket::UnconnectedState
+[ 19:11:17,639 ] News query failed: "Account name or password is not correct."
+[ 19:11:18,543 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:11:18,684 ] Connection to gameserver  QUrl("")  requested (Charakter "ADM PH" )
+[ 19:11:18,684 ] Socket state changed  QAbstractSocket::HostLookupState
+[ 19:11:18,685 ] Socket state changed  QAbstractSocket::UnconnectedState
+[ 19:11:18,778 ] News query failed: "Account name or password is not correct."
+[ 19:11:19,678 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:11:19,913 ] News query failed: "Account name or password is not correct."
+[ 19:11:20,902 ] Connection to gameserver  QUrl("")  requested (Charakter "ADM PH" )
+[ 19:11:20,902 ] Socket state changed  QAbstractSocket::HostLookupState
+[ 19:11:20,904 ] Socket state changed  QAbstractSocket::UnconnectedState
+[ 19:11:21,793 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:11:21,897 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:11:21,972 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:11:22,203 ] News query failed: "Account name or password is not correct."
+[ 19:11:57,464 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:11:57,756 ] Asset loading complete
+[ 19:11:57,958 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:12:02,483 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:12:03,393 ] BattlEye: "Initialized (v1.243)"
+[ 19:12:03,393 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 19:12:03,393 ] BattlEye: "Restarting client is necessary, update required"
+[ 19:12:28,385 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:12:28,686 ] Asset loading complete
+[ 19:12:28,967 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:12:33,079 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:12:38,257 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:12:42,717 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:12:58,469 ] Asset loading complete
+[ 19:12:59,527 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:13:00,066 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:13:04,219 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:13:05,132 ] BattlEye: "Initialized (v1.243)"
+[ 19:13:05,132 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 19:13:05,132 ] BattlEye: "Restarting client is necessary, update required"
+[ 19:13:05,164 ] Connection to gameserver  QUrl("tcp://191.222.241.189:7172")  requested (Charakter "ADM PH" )
+[ 19:13:05,164 ] Socket state changed  QAbstractSocket::HostLookupState
+[ 19:13:05,164 ] Socket state changed  QAbstractSocket::ConnectingState
+[ 19:13:05,169 ] Socket state changed  QAbstractSocket::ConnectedState
+[ 19:13:05,169 ] Connected to Gameserver  "191.222.241.189" "Lioons OT"
+[ 19:13:06,365 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:13:07,033 ] News query failed: "Account name or password is not correct."
+[ 19:14:53,802 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:16:25,990 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:17:00,156 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:17:54,990 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:17:54,991 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:17:54,991 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:17:54,991 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:17:54,992 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:17:54,992 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:17:55,581 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:17:55,581 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:17:55,586 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:17:55,593 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:17:55,607 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:17:55,624 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:17:55,660 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:17:55,661 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:17:55,724 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:17:55,725 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:17:59,767 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:21:00,082 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:21:29,968 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:22:09,554 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:22:39,286 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:22:59,769 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:23:49,217 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:26:02,133 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:27:59,750 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:30:43,072 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:32:59,781 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:36:27,000 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:37:59,771 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:40:09,174 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:40:09,591 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:41:17,381 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:41:18,011 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:41:22,796 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:42:59,783 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:43:20,950 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:47:59,772 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:52:59,781 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:58:00,064 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:58:45,015 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:59:11,751 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:59:23,768 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 20:00:04,435 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 20:00:13,235 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 20:00:35,303 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 20:00:36,302 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 20:03:00,038 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 20:05:09,831 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 20:06:34,433 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 20:06:34,966 ] Socket state changed  QAbstractSocket::ClosingState
+[ 20:06:34,966 ] Socket state changed  QAbstractSocket::UnconnectedState
+[ 20:06:34,967 ] Disconnected from Gameserver
+[ 20:06:35,629 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 20:12:23,843 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 20:12:24,459 ] Asset loading complete
+[ 20:12:25,133 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 20:12:36,314 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 20:12:44,447 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 20:12:46,270 ] BattlEye: "Initialized (v1.243)"
+[ 20:12:46,270 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 20:12:46,270 ] BattlEye: "Restarting client is necessary, update required"
+[ 20:12:46,315 ] Connection to gameserver  QUrl("tcp://191.222.241.189:7172")  requested (Charakter "ADM PH" )
+[ 20:12:46,315 ] Socket state changed  QAbstractSocket::HostLookupState
+[ 20:12:46,315 ] Socket state changed  QAbstractSocket::ConnectingState
+[ 20:12:46,321 ] Socket state changed  QAbstractSocket::ConnectedState
+[ 20:12:46,321 ] Connected to Gameserver  "191.222.241.189" "Lioons OT"
+[ 20:12:47,635 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 20:12:47,864 ] News query failed: "Account name or password is not correct."
+[ 20:14:24,557 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 20:14:24,623 ] Socket state changed  QAbstractSocket::ClosingState
+[ 20:14:24,623 ] Socket state changed  QAbstractSocket::UnconnectedState
+[ 20:14:24,623 ] Disconnected from Gameserver
+[ 20:14:24,812 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 20:14:24,860 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 20:17:17,609 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 20:17:19,401 ] Connection to gameserver  QUrl("tcp://191.222.241.189:7172")  requested (Charakter "ADM PH" )
+[ 20:17:19,401 ] Socket state changed  QAbstractSocket::HostLookupState
+[ 20:17:19,401 ] Socket state changed  QAbstractSocket::ConnectingState
+[ 20:17:19,428 ] Socket state changed  QAbstractSocket::ConnectedState
+[ 20:17:19,428 ] Connected to Gameserver  "191.222.241.189" "Lioons OT"
+[ 20:17:20,408 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 20:17:20,643 ] News query failed: "Account name or password is not correct."
+[ 20:17:24,292 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 20:22:24,272 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 20:24:17,893 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 20:24:17,928 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 20:24:42,428 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 20:25:12,195 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 20:25:15,192 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 20:27:24,283 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 20:32:24,295 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 20:37:24,289 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 20:42:24,315 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 20:44:34,553 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 20:47:24,312 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 20:48:10,546 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 20:52:24,434 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 20:53:07,372 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 20:55:00,559 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 20:57:24,331 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 21:02:05,608 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 21:02:05,991 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 21:02:24,329 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 21:07:24,337 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 21:11:28,215 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 21:12:24,349 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 21:13:01,217 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 21:13:16,700 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 21:15:03,608 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 21:16:53,075 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 21:17:24,360 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 21:19:44,170 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 21:21:51,403 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 21:22:24,370 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 21:23:19,340 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 21:23:31,141 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 21:23:35,326 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 21:23:36,814 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 21:23:52,949 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 21:26:33,247 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 21:26:33,300 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 21:27:24,366 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 21:32:24,347 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 21:34:30,798 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 21:37:24,362 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 21:39:30,446 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 21:42:24,359 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 21:46:12,775 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 21:47:24,394 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 21:49:38,351 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 21:51:18,804 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 21:52:13,259 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 21:52:24,388 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 21:57:24,399 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 21:58:03,127 ] qrc:///qml/Chat.qml:402:13: QML ListView: Binding loop detected for property "topMargin"
+[ 21:58:23,449 ] qrc:///qml/Chat.qml:402:13: QML ListView: Binding loop detected for property "topMargin"
+[ 22:01:56,343 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:02:24,383 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:03:05,374 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:03:06,255 ] Socket state changed  QAbstractSocket::ClosingState
+[ 22:03:06,255 ] Socket state changed  QAbstractSocket::UnconnectedState
+[ 22:03:06,255 ] Disconnected from Gameserver
+[ 22:03:08,093 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:03:08,271 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:03:12,443 ] Connection to gameserver  QUrl("tcp://191.222.241.189:7172")  requested (Charakter "ADM PH" )
+[ 22:03:12,443 ] Socket state changed  QAbstractSocket::HostLookupState
+[ 22:03:12,443 ] Socket state changed  QAbstractSocket::ConnectingState
+[ 22:03:12,529 ] Socket state changed  QAbstractSocket::ConnectedState
+[ 22:03:12,529 ] Connected to Gameserver  "191.222.241.189" "Lioons OT"
+[ 22:03:13,446 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:03:13,749 ] News query failed: "Account name or password is not correct."
+[ 22:03:35,815 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:03:35,879 ] Socket state changed  QAbstractSocket::ClosingState
+[ 22:03:35,879 ] Socket state changed  QAbstractSocket::UnconnectedState
+[ 22:03:35,879 ] Disconnected from Gameserver
+[ 22:03:36,000 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:03:36,020 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:03:37,855 ] Connection to gameserver  QUrl("tcp://191.222.241.189:7172")  requested (Charakter "ADM PH" )
+[ 22:03:37,856 ] Socket state changed  QAbstractSocket::HostLookupState
+[ 22:03:37,856 ] Socket state changed  QAbstractSocket::ConnectingState
+[ 22:03:37,864 ] Socket state changed  QAbstractSocket::ConnectedState
+[ 22:03:37,864 ] Connected to Gameserver  "191.222.241.189" "Lioons OT"
+[ 22:03:38,868 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:03:39,114 ] News query failed: "Account name or password is not correct."
+[ 22:04:27,166 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:04:27,230 ] Socket state changed  QAbstractSocket::ClosingState
+[ 22:04:27,231 ] Socket state changed  QAbstractSocket::UnconnectedState
+[ 22:04:27,231 ] Disconnected from Gameserver
+[ 22:04:27,310 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:04:27,321 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:04:28,403 ] Connection to gameserver  QUrl("tcp://191.222.241.189:7172")  requested (Charakter "ADM PH" )
+[ 22:04:28,403 ] Socket state changed  QAbstractSocket::HostLookupState
+[ 22:04:28,403 ] Socket state changed  QAbstractSocket::ConnectingState
+[ 22:04:28,416 ] Socket state changed  QAbstractSocket::ConnectedState
+[ 22:04:28,416 ] Connected to Gameserver  "191.222.241.189" "Lioons OT"
+[ 22:04:29,417 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:04:29,666 ] News query failed: "Account name or password is not correct."
+[ 22:05:32,672 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:05:32,750 ] Socket state changed  QAbstractSocket::ClosingState
+[ 22:05:32,750 ] Socket state changed  QAbstractSocket::UnconnectedState
+[ 22:05:32,750 ] Disconnected from Gameserver
+[ 22:05:32,944 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:05:33,118 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:06:41,170 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:06:42,909 ] Connection to gameserver  QUrl("tcp://191.222.241.189:7172")  requested (Charakter "ADM PH" )
+[ 22:06:42,909 ] Socket state changed  QAbstractSocket::HostLookupState
+[ 22:06:42,909 ] Socket state changed  QAbstractSocket::ConnectingState
+[ 22:06:42,921 ] Socket state changed  QAbstractSocket::ConnectedState
+[ 22:06:42,921 ] Connected to Gameserver  "191.222.241.189" "Lioons OT"
+[ 22:06:42,988 ] Socket state changed  QAbstractSocket::ClosingState
+[ 22:06:42,988 ] Socket state changed  QAbstractSocket::UnconnectedState
+[ 22:06:42,988 ] Disconnected from Gameserver
+[ 22:06:42,988 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:06:43,066 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:06:43,314 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:06:43,877 ] Connection to gameserver  QUrl("tcp://191.222.241.189:7172")  requested (Charakter "ADM PH" )
+[ 22:06:43,877 ] Socket state changed  QAbstractSocket::HostLookupState
+[ 22:06:43,877 ] Socket state changed  QAbstractSocket::ConnectingState
+[ 22:06:43,887 ] Socket state changed  QAbstractSocket::ConnectedState
+[ 22:06:43,887 ] Connected to Gameserver  "191.222.241.189" "Lioons OT"
+[ 22:06:43,920 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:06:44,469 ] News query failed: "Account name or password is not correct."
+[ 22:06:44,856 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:06:45,090 ] News query failed: "Account name or password is not correct."
+[ 22:06:45,770 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:07:13,391 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:07:13,455 ] Socket state changed  QAbstractSocket::ClosingState
+[ 22:07:13,455 ] Socket state changed  QAbstractSocket::UnconnectedState
+[ 22:07:13,455 ] Disconnected from Gameserver
+[ 22:07:13,534 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:07:14,128 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:08:09,481 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:08:10,740 ] Connection to gameserver  QUrl("tcp://191.222.241.189:7172")  requested (Charakter "ADM PH" )
+[ 22:08:10,740 ] Socket state changed  QAbstractSocket::HostLookupState
+[ 22:08:10,740 ] Socket state changed  QAbstractSocket::ConnectingState
+[ 22:08:10,757 ] Socket state changed  QAbstractSocket::ConnectedState
+[ 22:08:10,757 ] Connected to Gameserver  "191.222.241.189" "Lioons OT"
+[ 22:08:11,758 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:08:12,011 ] News query failed: "Account name or password is not correct."
+[ 22:08:39,910 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:12:24,418 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:14:40,372 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:17:24,398 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:22:24,409 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:23:40,092 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:23:40,166 ] Socket state changed  QAbstractSocket::ClosingState
+[ 22:23:40,166 ] Socket state changed  QAbstractSocket::UnconnectedState
+[ 22:23:40,166 ] Disconnected from Gameserver
+[ 22:23:40,295 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:23:40,633 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:27:24,410 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:32:24,412 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:37:24,419 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:42:24,427 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:46:00,158 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:46:51,806 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:46:53,502 ] Connection to gameserver  QUrl("tcp://191.222.241.189:7172")  requested (Charakter "ADM PH" )
+[ 22:46:53,502 ] Socket state changed  QAbstractSocket::HostLookupState
+[ 22:46:53,502 ] Socket state changed  QAbstractSocket::ConnectingState
+[ 22:46:53,507 ] Socket state changed  QAbstractSocket::ConnectedState
+[ 22:46:53,507 ] Connected to Gameserver  "191.222.241.189" "Lioons OT"
+[ 22:46:54,507 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:46:54,744 ] News query failed: "Account name or password is not correct."
+[ 22:47:05,240 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:47:05,259 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:47:24,457 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:52:24,438 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 22:57:24,449 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:02:24,475 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:07:24,455 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:12:24,467 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:13:42,852 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:13:42,918 ] Socket state changed  QAbstractSocket::ClosingState
+[ 23:13:42,918 ] Socket state changed  QAbstractSocket::UnconnectedState
+[ 23:13:42,918 ] Disconnected from Gameserver
+[ 23:13:42,991 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:13:43,441 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:14:17,801 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:14:29,230 ] Connection to gameserver  QUrl("tcp://191.222.241.189:7172")  requested (Charakter "Wabafeti" )
+[ 23:14:29,230 ] Socket state changed  QAbstractSocket::HostLookupState
+[ 23:14:29,230 ] Socket state changed  QAbstractSocket::ConnectingState
+[ 23:14:30,833 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:14:31,461 ] News query failed: "Account name or password is not correct."
+[ 23:14:37,473 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:14:59,467 ] Connection to gameserver  QUrl("tcp://191.222.241.189:7172")  requested (Charakter "Wabafeti" )
+[ 23:14:59,467 ] Socket state changed  QAbstractSocket::HostLookupState
+[ 23:14:59,467 ] Socket state changed  QAbstractSocket::ConnectingState
+[ 23:15:00,470 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:15:00,726 ] News query failed: "Account name or password is not correct."
+[ 23:15:55,969 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:15:58,237 ] Connection to gameserver  QUrl("tcp://191.222.241.189:7172")  requested (Charakter "Wabafeti" )
+[ 23:15:58,237 ] Socket state changed  QAbstractSocket::HostLookupState
+[ 23:15:58,237 ] Socket state changed  QAbstractSocket::ConnectingState
+[ 23:15:58,255 ] Socket state changed  QAbstractSocket::ConnectedState
+[ 23:15:58,255 ] Connected to Gameserver  "191.222.241.189" "Lioons OT"
+[ 23:15:58,392 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:15:58,392 ] Socket state changed  QAbstractSocket::ClosingState
+[ 23:15:58,392 ] Socket state changed  QAbstractSocket::UnconnectedState
+[ 23:15:58,392 ] Disconnected from Gameserver
+[ 23:15:58,472 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:15:59,103 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:15:59,242 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:15:59,612 ] News query failed: "Account name or password is not correct."
+[ 23:17:07,567 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:17:08,588 ] Connection to gameserver  QUrl("tcp://191.222.241.189:7172")  requested (Charakter "Wabafeti" )
+[ 23:17:08,588 ] Socket state changed  QAbstractSocket::HostLookupState
+[ 23:17:08,589 ] Socket state changed  QAbstractSocket::ConnectingState
+[ 23:17:08,592 ] Socket state changed  QAbstractSocket::ConnectedState
+[ 23:17:08,592 ] Connected to Gameserver  "191.222.241.189" "Lioons OT"
+[ 23:17:10,228 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:17:10,491 ] News query failed: "Account name or password is not correct."
+[ 23:17:12,010 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:17:12,025 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:17:24,492 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:18:00,493 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:18:26,996 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:18:28,882 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:18:29,797 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:19:13,997 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:19:21,846 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:19:25,530 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:19:39,997 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073784191 found"
+[ 23:19:41,863 ] "updateOrCreateCreatureFromProtobuf: no creature with id 268435457 found"
+[ 23:19:42,218 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073784191 found"
+[ 23:21:22,519 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:22:24,488 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:24:47,692 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073784070 found"
+[ 23:24:49,691 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073784070 found"
+[ 23:24:53,692 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073784070 found"
+[ 23:24:55,692 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073784070 found"
+[ 23:24:57,692 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073784070 found"
+[ 23:27:24,497 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:27:30,485 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:28:53,000 ] qrc:///qml/Chat.qml:402:13: QML ListView: Binding loop detected for property "topMargin"
+[ 23:28:54,850 ] qrc:///qml/Chat.qml:402:13: QML ListView: Binding loop detected for property "topMargin"
+[ 23:30:23,137 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073784564 found"
+[ 23:30:30,054 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:31:50,160 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073784483 found"
+[ 23:31:52,157 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073784483 found"
+[ 23:31:57,928 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073784527 found"
+[ 23:31:59,960 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073784527 found"
+[ 23:32:03,541 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073784525 found"
+[ 23:32:24,495 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:33:32,111 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073767563 found"
+[ 23:33:34,110 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073767563 found"
+[ 23:33:41,450 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:34:01,697 ] qrc:///qml/Chat.qml:402:13: QML ListView: Binding loop detected for property "topMargin"
+[ 23:37:24,502 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:41:38,346 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:41:38,455 ] Socket state changed  QAbstractSocket::ClosingState
+[ 23:41:38,455 ] Socket state changed  QAbstractSocket::UnconnectedState
+[ 23:41:38,455 ] Disconnected from Gameserver
+[ 23:41:38,582 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:41:39,287 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:41:40,079 ] Connection to gameserver  QUrl("tcp://191.222.241.189:7172")  requested (Charakter "Wabafeti" )
+[ 23:41:40,079 ] Socket state changed  QAbstractSocket::HostLookupState
+[ 23:41:40,079 ] Socket state changed  QAbstractSocket::ConnectingState
+[ 23:41:40,096 ] Socket state changed  QAbstractSocket::ConnectedState
+[ 23:41:40,096 ] Connected to Gameserver  "191.222.241.189" "Lioons OT"
+[ 23:41:42,783 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:41:43,029 ] News query failed: "Account name or password is not correct."
+[ 23:41:44,662 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:41:44,679 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:42:24,501 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:47:24,511 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:51:17,551 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:52:24,537 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:52:55,098 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:52:55,178 ] Socket state changed  QAbstractSocket::ClosingState
+[ 23:52:55,178 ] Socket state changed  QAbstractSocket::UnconnectedState
+[ 23:52:55,178 ] Disconnected from Gameserver
+[ 23:52:55,299 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:52:55,584 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:53:14,297 ] Connection to gameserver  QUrl("tcp://191.222.241.189:7172")  requested (Charakter "Wabafeti" )
+[ 23:53:14,298 ] Socket state changed  QAbstractSocket::HostLookupState
+[ 23:53:14,298 ] Socket state changed  QAbstractSocket::ConnectingState
+[ 23:53:14,306 ] Socket state changed  QAbstractSocket::ConnectedState
+[ 23:53:14,306 ] Connected to Gameserver  "191.222.241.189" "Lioons OT"
+[ 23:53:15,272 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:53:15,509 ] News query failed: "Account name or password is not correct."
+[ 23:54:18,510 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:57:24,517 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:59:46,803 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073767563 found"
+[ 23:59:47,804 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073767563 found"
+[ 23:59:48,792 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073767563 found"
+[ 23:59:49,803 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073767563 found"
+[ 00:02:24,542 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:04:17,198 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:06:40,254 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:06:40,257 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:06:40,269 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:06:40,269 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:06:40,274 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:06:40,287 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:06:41,002 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:06:41,039 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:06:41,039 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:06:41,040 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:06:41,065 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:06:41,066 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:06:41,086 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:06:41,117 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:06:41,130 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:06:41,131 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:06:42,638 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:06:42,669 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:07:24,553 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:12:24,550 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:13:57,840 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073802943 found"
+[ 00:16:22,923 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073795405 found"
+[ 00:16:49,608 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073795630 found"
+[ 00:16:52,727 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073795632 found"
+[ 00:16:53,727 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073795632 found"
+[ 00:17:24,560 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:19:48,448 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073786941 found"
+[ 00:19:48,949 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073786941 found"
+[ 00:19:49,448 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073786941 found"
+[ 00:19:49,748 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073786941 found"
+[ 00:19:49,748 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073786959 found"
+[ 00:21:41,819 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073777878 found"
+[ 00:22:24,554 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:22:44,028 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073777875 found"
+[ 00:23:21,790 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073777914 found"
+[ 00:23:22,790 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073777914 found"
+[ 00:23:22,925 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073777914 found"
+[ 00:23:23,792 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073777914 found"
+[ 00:23:24,789 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073777914 found"
+[ 00:23:25,791 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073777914 found"
+[ 00:27:14,406 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073778090 found"
+[ 00:27:15,099 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073778090 found"
+[ 00:27:15,402 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073778090 found"
+[ 00:27:16,399 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073778090 found"
+[ 00:27:24,567 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:29:25,990 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073778109 found"
+[ 00:31:09,124 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073807032 found"
+[ 00:32:24,564 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:34:55,999 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073806985 found"
+[ 00:37:24,556 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:37:48,822 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:37:54,539 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:37:54,572 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:40:57,565 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:42:24,583 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:42:38,266 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:42:54,917 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:46:21,275 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:46:21,349 ] Socket state changed  QAbstractSocket::ClosingState
+[ 00:46:21,349 ] Socket state changed  QAbstractSocket::UnconnectedState
+[ 00:46:21,349 ] Disconnected from Gameserver
+[ 00:46:21,467 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:46:21,846 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:46:23,804 ] Connection to gameserver  QUrl("tcp://191.222.241.189:7172")  requested (Charakter "Wabafeti" )
+[ 00:46:23,804 ] Socket state changed  QAbstractSocket::HostLookupState
+[ 00:46:23,804 ] Socket state changed  QAbstractSocket::ConnectingState
+[ 00:46:23,824 ] Socket state changed  QAbstractSocket::ConnectedState
+[ 00:46:23,824 ] Connected to Gameserver  "191.222.241.189" "Lioons OT"
+[ 00:46:24,776 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:46:25,009 ] News query failed: "Account name or password is not correct."
+[ 00:47:24,577 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:52:24,574 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:57:24,711 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 01:01:32,409 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 01:02:24,580 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 01:04:19,284 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 01:04:39,232 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 01:07:24,593 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 01:12:24,604 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 01:12:45,737 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 01:17:18,448 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 01:17:24,615 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 01:22:24,622 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 01:23:40,610 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 01:23:54,492 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 01:23:54,570 ] Socket state changed  QAbstractSocket::ClosingState
+[ 01:23:54,570 ] Socket state changed  QAbstractSocket::UnconnectedState
+[ 01:23:54,570 ] Disconnected from Gameserver
+[ 01:23:54,680 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 01:23:55,442 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 01:27:24,608 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 01:32:24,619 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 01:37:24,617 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 01:42:24,631 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 01:45:44,975 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 01:45:45,888 ] Connection to gameserver  QUrl("tcp://191.222.241.189:7172")  requested (Charakter "ADM PH" )
+[ 01:45:45,888 ] Socket state changed  QAbstractSocket::HostLookupState
+[ 01:45:45,888 ] Socket state changed  QAbstractSocket::ConnectingState
+[ 01:45:45,910 ] Socket state changed  QAbstractSocket::ConnectedState
+[ 01:45:45,910 ] Connected to Gameserver  "191.222.241.189" "Lioons OT"
+[ 01:45:46,860 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 01:45:47,126 ] News query failed: "Account name or password is not correct."
+[ 01:47:24,663 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 01:50:22,690 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 01:51:22,304 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 01:51:25,171 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 01:52:24,657 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 01:52:44,519 ] qrc:///qml/Chat.qml:402:13: QML ListView: Binding loop detected for property "topMargin"
+[ 01:54:44,281 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 01:57:24,668 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 01:58:29,356 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 02:02:24,663 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 02:03:42,649 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 02:07:24,676 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 02:08:39,745 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 02:09:19,864 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 02:11:34,319 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 02:12:24,656 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 02:15:52,060 ] qrc:///qml/Chat.qml:402:13: QML ListView: Binding loop detected for property "topMargin"
+[ 02:16:13,029 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 02:17:24,674 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 02:18:01,465 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 02:18:26,164 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 02:18:28,097 ] Socket state changed  QAbstractSocket::ClosingState
+[ 02:18:28,097 ] Socket state changed  QAbstractSocket::UnconnectedState
+[ 02:18:28,097 ] Disconnected from Gameserver
+[ 02:18:32,718 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 02:18:33,375 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 02:22:24,670 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 03:07:42,613 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 03:07:44,557 ] Asset loading complete
+[ 03:07:45,098 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 03:49:21,494 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 03:49:23,004 ] Asset loading complete
+[ 03:49:23,407 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 03:50:21,965 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 03:50:22,783 ] BattlEye: "Initialized (v1.243)"
+[ 03:50:22,783 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 03:50:22,783 ] BattlEye: "Restarting client is necessary, update required"
+[ 03:50:22,852 ] Connection to gameserver  QUrl("tcp://191.222.241.189:7172")  requested (Charakter "ADM PH" )
+[ 03:50:22,857 ] Socket state changed  QAbstractSocket::HostLookupState
+[ 03:50:22,857 ] Socket state changed  QAbstractSocket::ConnectingState
+[ 03:50:22,861 ] Socket state changed  QAbstractSocket::ConnectedState
+[ 03:50:22,861 ] Connected to Gameserver  "191.222.241.189" "Lioons OT"
+[ 03:50:25,358 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 03:50:25,503 ] News query failed: "Account name or password is not correct."
+[ 03:54:07,962 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 03:54:22,162 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 03:59:22,161 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 04:04:22,142 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 04:08:28,978 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073807126 found"
+[ 04:08:29,345 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073807157 found"
+[ 04:08:32,428 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073807112 found"
+[ 04:08:32,428 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073807135 found"
+[ 04:09:22,164 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 04:14:22,176 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 04:19:22,160 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 04:24:22,169 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 04:29:22,174 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 04:34:22,185 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 04:39:22,182 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 04:44:22,206 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 04:49:22,202 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 04:54:22,208 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 04:59:22,510 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 04:59:27,037 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 04:59:27,828 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 04:59:35,277 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 04:59:44,755 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 04:59:46,059 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 05:01:34,436 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 05:01:54,458 ] Socket state changed  QAbstractSocket::ClosingState
+[ 05:01:54,458 ] Socket state changed  QAbstractSocket::UnconnectedState
+[ 05:01:54,458 ] Disconnected from Gameserver
+[ 05:02:19,735 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 05:02:21,441 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 05:03:51,651 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 05:03:57,894 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 05:03:59,415 ] Connection to gameserver  QUrl("tcp://191.222.241.189:7172")  requested (Charakter "ADM PH" )
+[ 05:03:59,415 ] Socket state changed  QAbstractSocket::HostLookupState
+[ 05:03:59,415 ] Socket state changed  QAbstractSocket::ConnectingState
+[ 05:03:59,502 ] Socket state changed  QAbstractSocket::ConnectedState
+[ 05:03:59,502 ] Connected to Gameserver  "191.222.241.189" "Lioons OT"
+[ 05:04:01,402 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 05:04:01,601 ] News query failed: "Account name or password is not correct."
+[ 05:04:22,220 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 05:05:27,207 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073760317 found"
+[ 05:05:27,605 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073760318 found"
+[ 05:06:24,741 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073759937 found"
+[ 05:09:22,231 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 05:14:22,218 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 05:14:45,147 ] Asset loading complete
+[ 05:14:46,321 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 05:14:47,300 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 05:14:55,442 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 05:14:58,108 ] BattlEye: "Initialized (v1.243)"
+[ 05:14:58,108 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 05:14:58,108 ] BattlEye: "Restarting client is necessary, update required"
+[ 05:15:05,152 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 05:17:29,652 ] Asset loading complete
+[ 05:17:30,743 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 05:17:31,442 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 05:17:37,390 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 05:17:38,786 ] BattlEye: "Initialized (v1.243)"
+[ 05:17:38,786 ] BattlEye: "Restarting client is necessary, service isn't running properly"
+[ 05:17:38,786 ] BattlEye: "Restarting client is necessary, update required"
+[ 05:17:38,852 ] Connection to gameserver  QUrl("tcp://:0")  requested (Charakter "ADM PH" )
+[ 05:17:38,852 ] Socket state changed  QAbstractSocket::HostLookupState
+[ 05:17:38,855 ] Socket state changed  QAbstractSocket::UnconnectedState
+[ 05:17:39,811 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 05:17:40,042 ] Connection to gameserver  QUrl("tcp://:0")  requested (Charakter "ADM PH" )
+[ 05:17:40,042 ] Socket state changed  QAbstractSocket::HostLookupState
+[ 05:17:40,044 ] Socket state changed  QAbstractSocket::UnconnectedState
+[ 05:17:40,082 ] News query failed: "Account name or password is not correct."
+[ 05:17:41,015 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 05:17:41,211 ] Connection to gameserver  QUrl("tcp://:0")  requested (Charakter "ADM PH" )
+[ 05:17:41,211 ] Socket state changed  QAbstractSocket::HostLookupState
+[ 05:17:41,213 ] Socket state changed  QAbstractSocket::UnconnectedState
+[ 05:17:41,250 ] News query failed: "Account name or password is not correct."
+[ 05:17:42,186 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 05:17:42,367 ] Connection to gameserver  QUrl("tcp://:0")  requested (Charakter "ADM PH" )
+[ 05:17:42,367 ] Socket state changed  QAbstractSocket::HostLookupState
+[ 05:17:42,369 ] Socket state changed  QAbstractSocket::UnconnectedState
+[ 05:17:42,413 ] News query failed: "Account name or password is not correct."
+[ 05:17:42,531 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 05:17:42,709 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 05:17:43,342 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 05:17:43,555 ] News query failed: "Account name or password is not correct."
+[ 05:19:22,224 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 05:21:06,624 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 05:21:08,092 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
